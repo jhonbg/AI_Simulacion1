@@ -17,5 +17,6 @@ files.upload()
 
 *To download the dataset in your Colab Notebook, using de Kaggle API as follows:*
 ```
+!cp kaggle.json ~/.kaggle/
 !kaggle competitions download -c allstate-claims-severity
 ```
