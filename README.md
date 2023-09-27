@@ -6,3 +6,16 @@
 
 ## Datos
 **Kaggle:** https://www.kaggle.com/competitions/allstate-claims-severity
+
+*Paste the commans to upload your Kaggle Json:*
+```
+!pip install -U -q kaggle
+!mkdir -p ~/.kaggle
+from google.colab import files
+files.upload()
+```
+
+*To download the dataset in your Colab Notebook, using de Kaggle API as follows:*
+```
+!kaggle competitions download -c allstate-claims-severity
+```
