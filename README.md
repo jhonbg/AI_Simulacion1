@@ -5,6 +5,7 @@
 
 ## Datos
 **Kaggle:** https://www.kaggle.com/competitions/allstate-claims-severity
+## Video: https://www.youtube.com/watch?v=8q6sSQOkyE8&feature=youtu.be
 
 *Paste the commans to upload your Kaggle Json:*
 ```
